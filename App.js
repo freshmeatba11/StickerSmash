@@ -52,7 +52,7 @@ export default function App() {
 
   return (
     <GestureHandlerRootView style={styles.container}>
-      <View style={styles.imageContainerontainer}>
+      <View style={styles.imageContainer}>
         <ImageViewer
           placeholderImageSource={PlaceholderImage}
           selectedImage={selectedImage}
